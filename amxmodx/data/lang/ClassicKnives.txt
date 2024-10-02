@@ -1,0 +1,20 @@
+[en] -- RedSMURF 
+CK_MENU_TITLE = \r[\yClassic Knives\r]
+
+CK_DEFAULT_NAME = Default Knife
+CK_DEFAULT_INFO = (Balanced)
+
+CK_MACHETE_NAME = Machete Knife
+CK_MACHETE_INFO = (More Damage/Low Speed)
+
+CK_BAK_NAME = Bak Knife
+CK_BAK_INFO = (Silent Footsteps)
+
+CK_BUTCHER_NAME = Butcher Knife
+CK_BUTCHER_INFO = (Low Gravity)
+
+CK_POCKET_NAME = Pocket Knife
+CK_POCKET_INFO = (High Speed)
+
+CK_SELECTED = \y~ \rSELECTED \y~
+CK_EMPTY = 
